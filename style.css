@@ -1,0 +1,145 @@
+
+.strong{
+
+
+background-color: blueviolet;
+text-align: center;
+border-radius: 25px;
+
+}
+
+.class{
+
+color: blue;
+
+
+
+}
+
+
+
+
+
+
+
+.style{
+
+
+
+
+
+    background-color: yellow;
+}
+
+
+
+
+
+
+.title{
+
+background-color: yellow;
+text-align: center;
+
+
+}
+
+
+.div{
+
+background-color: yellow;
+
+text-align: center;
+
+
+
+
+}
+
+
+.css{
+
+width: 1000px;
+
+
+}
+.html{
+
+color:green;
+
+
+}
+
+.index{
+
+
+color: green;
+
+
+
+}
+
+
+
+
+.type{
+
+
+width: 100px;
+height: 50px;
+background-color: blue;
+
+}
+
+
+
+
+.input{
+
+
+background-color: yellow;
+
+text-align: center;
+
+
+}
+
+
+.th{
+
+
+    background-color: yellow;
+}
+
+
+
+
+
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 15px;
+    text-align: left;
+
+}
+
+th {
+    background-color: #4CAF50; /* Зеленый цвет для заголовков */
+    color: white;
+}
+
+tr:nth-child(even) {
+    background-color: #db1919; /* Серый фон для четных строк */
+}
+
+
+.cs{
+
+
+    background-color: blue;
+}
